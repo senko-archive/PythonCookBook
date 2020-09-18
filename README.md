@@ -1,0 +1,1 @@
+Some Python Cookbook recepies and examples for learning and reference
